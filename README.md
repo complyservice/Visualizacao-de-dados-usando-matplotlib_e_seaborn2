@@ -1,0 +1,2 @@
+# Visualizacao-de-dados-usando-matplotlib_e_seaborn2
+A visualização de dados é a representação gráfica dos dados. Envolve a produção de imagens que comunicam as relações entre os dados representados aos espectadores. A visualização de dados é uma parte essencial da análise de dados e do aprendizado de máquina, mas escolher o tipo certo de visualização geralmente é um desafio. Este guia fornece uma introdução às técnicas de visualização de dados populares, apresentando exemplos de casos de uso e fornecendo exemplos de código usando Python.
